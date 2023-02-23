@@ -30,18 +30,18 @@ export const Profile = ({
         <AdditionalInfo>Salvador, Brasil</AdditionalInfo>
       </Description>
 
-      <InfoList class="stats">
+      <InfoList>
         <InfoBlock>
-          <InfoBlockText class="label">Followers</InfoBlockText>
-          <InfoBlockData class="quantity">1000</InfoBlockData>
+          <InfoBlockText>Followers</InfoBlockText>
+          <InfoBlockData>1000</InfoBlockData>
         </InfoBlock>
         <InfoBlock>
-          <InfoBlockText class="label">Views</InfoBlockText>
-          <InfoBlockData class="quantity">2000</InfoBlockData>
+          <InfoBlockText>Views</InfoBlockText>
+          <InfoBlockData>2000</InfoBlockData>
         </InfoBlock>
         <InfoBlock>
-          <InfoBlockText class="label">Likes</InfoBlockText>
-          <InfoBlockData class="quantity">3000</InfoBlockData>
+          <InfoBlockText>Likes</InfoBlockText>
+          <InfoBlockData>3000</InfoBlockData>
         </InfoBlock>
       </InfoList>
     </ProfileContainer>

@@ -2,8 +2,7 @@ import styled from 'styled-components';
 
 export const ProfileContainer = styled.div`
   width: 300px;
-  margin: 0 auto;
-  margin-top: 10px;
+  margin: 10px auto;
   padding: 20px;
   padding-bottom: 0;
   border: 1px solid #d7d7d7;
